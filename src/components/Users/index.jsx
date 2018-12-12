@@ -30,7 +30,6 @@ const index = ({ match }) => (
       />
       <Route render={() => <Redirect to={`${match.url}/select`} />} />
     </Switch>
-
   </Container>
 );
 

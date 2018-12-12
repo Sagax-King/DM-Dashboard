@@ -1,6 +1,9 @@
 export default () => ({
   colors: {
-    charcoal: '#2a2a2a',
-    electricBlue: '#00b7c0',
+    black: '#2a2a2a',
+    grey: '#909090',
+    red: '#DD2213',
+    orange: '#EE9F33',
+    lightGrey: '#E0E0E2',
   },
 });
